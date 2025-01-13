@@ -1,0 +1,2 @@
+quote="Nelson Mandela said, the greatest glory in living lies not in never falling, but in rising every time we fall."
+print(quote)
